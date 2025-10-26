@@ -17,8 +17,6 @@ Paste the job description
 Receive actionable insights and suggestions from the AI
 Download your optimized resume
 Setup Instructions
-Clone the repository:
-git clone https://github.com/Greavan/SkillSync.git
 Create and activate a Python virtual environment:
 python -m venv venv
 venv\Scripts\activate  # On Windows
