@@ -1,6 +1,6 @@
-# SkillSync
+# Skill
 
-SkillSync is an AI-powered resume optimization tool designed to help job seekers enhance their resumes for better ATS (Applicant Tracking System) compatibility and job matching.
+Skill is an AI-powered resume optimization tool designed to help job seekers enhance their resumes for better ATS (Applicant Tracking System) compatibility and job matching.
 
 ## Features
 - Upload your resume in PDF format
@@ -20,10 +20,6 @@ SkillSync uses the Google Generative AI model: **Gemini 1.5 Flash** for resume a
 4. Download your optimized resume
 
 ## Setup Instructions
-1. Clone the repository:
-   ```
-   git clone https://github.com/Greavan/SkillSync.git
-   ```
 2. Create and activate a Python virtual environment:
    ```
    python -m venv venv
